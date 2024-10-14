@@ -92,7 +92,7 @@ export const projects = [
     des: "Freelance London Design agenty to create your dream website",
     img: "/lon2.png",
     iconLists: ["/next.svg", "/re.svg", "/tail.svg"],
-    link: "the-london-designs-2fyoxpahq-adrian23221.vercel.app",
+    link: "https://the-london-designs-2fyoxpahq-adrian23221.vercel.app/",
   },
   {
     id: 4,
@@ -100,7 +100,7 @@ export const projects = [
     des: "Quick and simple Weather checker made in React JS",
     img: "/wea.png",
     iconLists: ["/re.svg", "/tail.svg"],
-    link: "/https://adrian23221.github.io/WeatherApp/",
+    link: "https://adrian23221.github.io/WeatherApp/",
   },
 ];
 
